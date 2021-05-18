@@ -31,9 +31,6 @@ PyQt5==5.12.3
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.12.1
 pytest==6.2.2
-pywin32==228
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
 pyxll==5.0.8
 PyYAML==5.4.1
 pyzmq==20.0.0
